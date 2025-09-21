@@ -4,7 +4,7 @@ import { SignInButton } from "@clerk/clerk-react";
 
 const Auth = () => {
   return (
-    <div className="min-h-screen w-full bg-white text-gray-900 flex flex-col items-center justify-center px-4 sm:px-10 md:px-16 lg:px-20 py-12 relative overflow-hidden">
+    <div className="min-h-screen w-full bg-[#dddddd] text-gray-900 flex flex-col items-center justify-center px-4 sm:px-10 md:px-16 lg:px-20 py-12 relative overflow-hidden">
       {/* Logo */}
       <div className="absolute top-6 left-6 flex items-center gap-2">
         <h1 className="bg-gradient-to-r from-[#004743] to-[#009688] text-transparent text-xl sm:text-3xl font-extrabold bg-clip-text uppercase">
